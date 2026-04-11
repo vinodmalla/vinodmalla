@@ -77,13 +77,22 @@ const vinod = {
 
 ---
 
+
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinodmalla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodmalla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=vinodmalla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&cache_seconds=1800" />
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vinodmalla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&cache_seconds=1800" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodmalla&theme=tokyonight&hide_border=true&background=0d1117" />
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=vinodmalla&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+</p>
 
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinodmalla&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+</p>
 ---
 
 ### 🏆 LeetCode Stats

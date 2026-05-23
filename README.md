@@ -71,7 +71,7 @@ const vinod = {
 |---|---|---|
 | **[RideTogether](https://myportfolio-eta-six-64.vercel.app/)** | React · Node.js · Express · MongoDB · Socket.io · Google Maps API · Tailwind | Admin creates a trip room, members join via Room ID, live GPS tracking per rider, destination pinning, idle alert notification if a member hasn't moved for 1+ hour |
 | **[DivTinder](https://myportfolio-eta-six-64.vercel.app/)** | MongoDB · Express · React · Node.js | Full-stack MERN app with JWT auth & REST APIs |
-| **Internal Device Tracker** | MERN Stack | Enterprise device management system at ERS |
+| **Internal Device Tracker** | MERN Stack | Enterprise device management system at HCL |
 
 <div align="center">
 

@@ -97,7 +97,7 @@ const vinod = {
 
 ### 🏆 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mallavinod95?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/mallavinod95/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Vinod18_27?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Vinod18_27/)
 
 ---
 
